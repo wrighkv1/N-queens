@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Kristen/Desktop/Coding/N-Queens/Queens.cpp
+Queens.h
+/Users/Kristen/Desktop/Coding/N-Queens/Queens.h
+iostream
+-
+
+/Users/Kristen/Desktop/Coding/N-Queens/Queens.h
+
+/Users/Kristen/Desktop/Coding/N-Queens/main.cpp
+Queens.h
+/Users/Kristen/Desktop/Coding/N-Queens/Queens.h
+
